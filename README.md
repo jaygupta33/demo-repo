@@ -1,3 +1,3 @@
 # demo-repo
 my first git repo
-Author-Jay gupta
+Author-Jay gupta(Manipal)
